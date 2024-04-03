@@ -1,7 +1,5 @@
 # ich will nochmal Tkinter durchgehen
 
-import tkinter as Tk
-
 from tkinter import *
 
 def anzeige():
