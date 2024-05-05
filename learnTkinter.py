@@ -17,7 +17,7 @@ myText.set('Hello Welt')
 textLabel = Label(fen, textvariable=myText)
 textLabel.pack()
 
-btn = Button(fen, text='klicken Sie hier', command=anzeige())
+btn = Button(fen, text='klicken Sie hier', command=anzeige)
 btn.pack(side= TOP)
 
 fen.mainloop()
